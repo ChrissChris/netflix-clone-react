@@ -5,7 +5,7 @@ import requests from '../request.js'
 import './Banner.css'
 
 // The url adress which will use to fetch the data from the API
-const apiPath = 'https://image.tmdb.org/t/p/original/'
+const movieApiUrl = 'https://image.tmdb.org/t/p/original/'
 
 //We set a random number which will be passed as a index to access movie for the Banner
 const randomNum = Math.floor(Math.random() * 10)
@@ -35,7 +35,7 @@ const Banner = () => {
       style={{
         backgroundSize: 'cover',
         backgroundImage: `url(
-            "${apiPath}${movie?.backdrop_path}"
+            "${movieApiUrl}${movie?.backdrop_path}"
           )
           `,
         backgroundPosition: 'center center',

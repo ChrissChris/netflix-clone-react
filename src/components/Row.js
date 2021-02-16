@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react'
 import axios from '../axios.js'
 import './Row.css'
 
-const base_url = 'https://image.tmdb.org/t/p/original/'
+const movieApiUrl = 'https://image.tmdb.org/t/p/original/'
 
 const Row = ({ title, fetchURL, isLargeRow }) => {
   const [movies, setMovies] = useState([])
@@ -28,7 +28,7 @@ const Row = ({ title, fetchURL, isLargeRow }) => {
           <img
             key={movie.id}
             className={`row__poster ${isLargeRow && 'row__posterLarge'}`}
-            src={`${base_url}${movie.poster_path}`}
+            src={`${movieApiUrl}${movie.poster_path}`}
             alt={movie.name}
           />
         ))}
