@@ -31,5 +31,5 @@
 
 </br>
 </br>
-</br>
+
 ### You can check the app here : https://netflix-clone-16a0e.web.app/
