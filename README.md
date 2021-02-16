@@ -18,3 +18,18 @@
 </br>
 
 ---
+
+![homepage-image](././public/images/homepage.jpg)
+
+</br>
+
+![htrending-image](././public/images/trending-rows.jpg)
+
+</br>
+
+![trailer-image](././public/images/trailer-image.jpg)
+
+</br>
+</br>
+</br>
+### You can check the app here : https://netflix-clone-16a0e.web.app/
