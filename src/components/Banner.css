@@ -1,7 +1,7 @@
 .banner {
   color: #fff;
   object-fit: contain;
-  height: 448px;
+  height: 465px;
 }
 .banner__content {
   margin-left: 2rem;
@@ -17,7 +17,7 @@
   width: 45rem;
   line-height: 1.3rem;
   padding-top: 1rem;
-  font-size: 0.9rem;
+  font-size: 0.8rem;
   max-width: 375px;
   height: 5rem;
 }
@@ -27,9 +27,24 @@
   outline: none;
   border: none;
   font-weight: 700;
-  border-radius: 0.2vh;
+  border-radius: 0.2vw;
   padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
   padding-left: 2rem;
   padding-right: 2rem;
   margin-right: 1rem;
+  background-color: rgba(51, 51, 51, 0.5);
+}
+.banner__button:hover {
+  color: #000;
+  background-color: #fff;
+}
+.banner--fadeBottom {
+  height: 7.3rem;
+  background-image: linear-gradient(
+    180deg,
+    transparent,
+    rgba(37, 37, 37, 0.61),
+    #111
+  );
 }

@@ -1,0 +1,9 @@
+.nav {
+  position: absolute;
+  top: 0;
+  padding: 1.9rem;
+}
+.nav__logo {
+  width: 5rem;
+  object-fit: contain;
+}
