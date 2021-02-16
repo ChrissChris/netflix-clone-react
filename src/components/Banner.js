@@ -25,6 +25,7 @@ const Banner = () => {
     fetchData()
   }, [request])
 
+  //The function below will be passed and truncete the text displayerd on the banner.
   const truncateText = (str, n) => {
     return str?.length > n ? str.substr(0, n - 1) + '...' : str
   }
@@ -51,8 +52,6 @@ const Banner = () => {
         <h1 className='banner__description'>
           {truncateText(movie?.overview, 150)}
         </h1>
-        {/* title */}
-        {/* div > two buttons */}
       </div>
       <div className='banner--fadeBottom'></div>
     </header>
