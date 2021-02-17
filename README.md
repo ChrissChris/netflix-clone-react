@@ -3,19 +3,19 @@
 </br>
 </br>
 
-### This in Netlix clone app created with React and JavaScript.
+* ### This in Netlix clone app created with React and JavaScript.
 
 </br>
 
-### The app provide us list with all trending movies sorted by genres.
+* ### The app provide us list with all trending movies sorted by genres.
 
 </br>
 
-### Once we select the movie poster we have the option to preview its trailer.
+* ### Once we select the movie poster we have the option to preview its trailer.
 
 </br>
 
-### The app is hosted on Firebase.
+* ### The app is hosted on Firebase.
 
 </br>
 </br>
