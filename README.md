@@ -15,7 +15,7 @@
 
 </br>
 
-### The app is hosted on Firebase
+### The app is hosted on Firebase.
 
 </br>
 </br>
