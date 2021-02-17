@@ -2,6 +2,7 @@
 
 </br>
 </br>
+
 ###This in Netlix clone app created with React and JavaScript.
 
 </br>
@@ -29,6 +30,7 @@
 
 ![trailer-image](././public/images/trailer-image.jpg)
 
+</br>
 </br>
 </br>
 
