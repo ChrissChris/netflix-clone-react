@@ -18,7 +18,7 @@
 </br>
 </br>
 
-### The app is hosted on Firebase
+### * The app is hosted on Firebase
 
 ---
 
@@ -32,7 +32,6 @@
 
 ![trailer-image](././public/images/trailer-image.jpg)
 
-</br>
 </br>
 </br>
 
