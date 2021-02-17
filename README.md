@@ -6,19 +6,19 @@
 ### This in Netlix clone app created with React and JavaScript.
 
 </br>
-</br>
 
 ### The app provide us list with all trending movies sorted by genres.
 
-</br>
 </br>
 
 ### Once we select the movie poster we have the option to preview its trailer.
 
 </br>
-</br>
 
- ###  *The app is hosted on Firebase
+### The app is hosted on Firebase
+
+</br>
+</br>
 
 ---
 
@@ -32,7 +32,6 @@
 
 ![trailer-image](././public/images/trailer-image.jpg)
 
-</br>
 </br>
 
 ### You can check the app here : https://netflix-clone-16a0e.web.app/
