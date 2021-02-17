@@ -18,6 +18,8 @@
 </br>
 </br>
 
+### The app is hosted on Firebase
+
 ---
 
 ![homepage-image](././public/images/homepage.jpg)
