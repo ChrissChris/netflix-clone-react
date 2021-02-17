@@ -3,7 +3,7 @@
 </br>
 </br>
 
-###This in Netlix clone app created with React and JavaScript.
+### This in Netlix clone app created with React and JavaScript.
 
 </br>
 </br>
